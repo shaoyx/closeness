@@ -1,0 +1,3 @@
+#!/bin/bash
+#java com.graphtools.GraphTools $@
+java -jar GraphTools.jar $@

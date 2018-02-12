@@ -1,0 +1,105 @@
+InputGraph=web-Google;
+num_iter=10;
+decay_factor=0.6000
+sampleNum=100;
+sampleQueryNum=20;
+is_fm=false;
+uDisk=1;
+hasIndex=0;
+buildIndex=1;
+needOrig=0;
+
+reading from processed graph path: dataset/web-Google/web-Google.data.fmt
+[input]EdgeNum=5105039, inVertexNum=875713.
+Time cost for reading graph: 0.48612
+Method=srgs, graph = web-Google, udsik=1: Time cost for build index: 6.67413
+InputGraph=web-BerkStan;
+num_iter=10;
+decay_factor=0.6000
+sampleNum=100;
+sampleQueryNum=20;
+is_fm=false;
+uDisk=1;
+hasIndex=0;
+buildIndex=1;
+needOrig=0;
+
+reading from processed graph path: dataset/web-BerkStan/web-BerkStan.data.fmt
+[input]EdgeNum=7600595, inVertexNum=685230.
+Time cost for reading graph: 0.46223
+Method=srgs, graph = web-BerkStan, udsik=1: Time cost for build index: 4.40841
+InputGraph=dblp-2011;
+num_iter=10;
+decay_factor=0.6000
+sampleNum=100;
+sampleQueryNum=20;
+is_fm=false;
+uDisk=1;
+hasIndex=0;
+buildIndex=1;
+needOrig=0;
+
+reading from processed graph path: dataset/dblp-2011/dblp-2011.data.fmt
+[input]EdgeNum=6707236, inVertexNum=933258.
+Time cost for reading graph: 0.48272
+Method=srgs, graph = dblp-2011, udsik=1: Time cost for build index: 7.34074
+InputGraph=it-2004;
+num_iter=10;
+decay_factor=0.6000
+sampleNum=100;
+sampleQueryNum=20;
+is_fm=false;
+uDisk=1;
+hasIndex=0;
+buildIndex=1;
+needOrig=0;
+
+reading from processed graph path: dataset/it-2004/it-2004.data.fmt
+[input]EdgeNum=1150725436, inVertexNum=41290682.
+Time cost for reading graph: 55.81262
+Method=srgs, graph = it-2004, udsik=1: Time cost for build index: 563.29751
+InputGraph=twitter;
+num_iter=10;
+decay_factor=0.6000
+sampleNum=100;
+sampleQueryNum=20;
+is_fm=false;
+uDisk=1;
+hasIndex=0;
+buildIndex=1;
+needOrig=0;
+
+reading from processed graph path: dataset/twitter/twitter.data.fmt
+[input]EdgeNum=1468365182, inVertexNum=41652230.
+Time cost for reading graph: 66.74543
+Method=srgs, graph = twitter, udsik=1: Time cost for build index: 918.40599
+InputGraph=wikipedia_link_en;
+num_iter=10;
+decay_factor=0.6000
+sampleNum=100;
+sampleQueryNum=20;
+is_fm=false;
+uDisk=1;
+hasIndex=0;
+buildIndex=1;
+needOrig=0;
+
+reading from processed graph path: dataset/wikipedia_link_en/wikipedia_link_en.data.fmt
+[input]EdgeNum=547295981, inVertexNum=25942246.
+Time cost for reading graph: 26.15338
+Method=srgs, graph = wikipedia_link_en, udsik=1: Time cost for build index: 334.67757
+InputGraph=soc-LiveJournal;
+num_iter=10;
+decay_factor=0.6000
+sampleNum=100;
+sampleQueryNum=20;
+is_fm=false;
+uDisk=1;
+hasIndex=0;
+buildIndex=1;
+needOrig=0;
+
+reading from processed graph path: dataset/soc-LiveJournal/soc-LiveJournal.data.fmt
+[input]EdgeNum=68993773, inVertexNum=4847571.
+Time cost for reading graph: 3.91032
+Method=srgs, graph = soc-LiveJournal, udsik=1: Time cost for build index: 68.50619
